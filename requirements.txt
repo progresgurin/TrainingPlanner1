@@ -1,0 +1,2 @@
+# External dependencies are not required.
+# The project uses only the Python standard library: tkinter, json, pathlib, unittest.
